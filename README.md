@@ -1,4 +1,4 @@
-- The responce youtube clone web application.
+- The responsive youtube clone web app made using React JS, rapidAPI & MUI
 
 # Technology
 - React JS
